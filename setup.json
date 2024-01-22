@@ -1,9 +1,40 @@
 [
 	{
 		"id": 137,
+		"type": "module",
 		"use_standard_fields": false,
-		"module_name": {
-			"value": "Client Logo Slider"
+		"name": "Client Logo Slider",
+		"system_fields": {
+			"module_field_137_1": {
+				"name": "name",
+				"type": "input_text",
+				"live": true,
+				"required": false
+			},
+			"module_field_137_2": {
+				"name": "location",
+				"type": "input_text",
+				"live": true,
+				"required": false
+			},
+			"module_field_137_3": {
+				"name": "bedrooms",
+				"type": "input_text",
+				"live": true,
+				"required": false
+			},
+			"module_field_137_4": {
+				"name": "bathrooms",
+				"type": "input_text",
+				"live": true,
+				"required": false
+			},
+			"module_field_137_5": {
+				"name": "image",
+				"type": "image",
+				"live": true,
+				"required": false
+			}
 		}
 	}
 ]
