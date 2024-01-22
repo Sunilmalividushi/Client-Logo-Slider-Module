@@ -2,8 +2,15 @@
 	{
 		"id": 137,
 		"type": "module",
-		"use_standard_fields": false,
 		"name": "Client Logo Slider",
+		"slug": "client-logo-slider",
+		"detail": false,
+		"detail_template": "templates/blank_page",
+		"detail_default_layout": "default",
+		"sz": false,
+		"sz_updated": true,
+		"sz_display_type": "404",
+		"use_standard_fields": true,
 		"system_fields": {
 			"module_field_137_1": {
 				"name": "name",
